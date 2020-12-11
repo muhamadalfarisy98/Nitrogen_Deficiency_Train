@@ -1,0 +1,3 @@
+Buzzer_class	KEYWORD1
+init_buzzer	KEYWORD2
+buzzer_on	KEYWORD2
